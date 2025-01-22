@@ -7,3 +7,4 @@ df = pd.read_csv('File_Path')
 df.head
 df.shape()
 df.describe()
+df.correlate
