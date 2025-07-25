@@ -8,3 +8,6 @@ df.head
 df.shape()
 df.describe()
 df.correlate
+
+
+
